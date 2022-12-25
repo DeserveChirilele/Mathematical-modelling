@@ -5,3 +5,12 @@ I visualized the unique values present in the data. For this, I used the seaborn
 I am new to python. When I used Jupyter Notebook the code inside the cells wasn’t executed and I got these empty brackets ([ ]).
  I also found problem to search for suitable platform or software to write the coding. 
 I tried Python and Online's Jupiter Notebook, but it didn't go through really well until I use Jupiter Notebook in Anaconda then I start to write coding smoothly. I also realized there are a lot of different way to write coding, which confused me in the beginning.
+
+
+#ЛР-2
+From Lab.1 Generally, our measurements and model scores worked well to show the aim of the study. This study can be completed in a shorter way as well without repeating similar functions; however, this study also aims to use different methods to have accurate scores from variable sources. I used the following algorithms:
+
+Random forest classifier 
+Logistics regression 
+
+Conclusion: I didn’t manage get the best  fit modal for our dataset because the algorithm got stuck at the it took like 30 minutes calculating
